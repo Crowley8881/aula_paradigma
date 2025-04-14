@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1744639610 source:c:\users\d25106\desktop\aulatriangulo\main\triangulo.cpp
+	<iostream>
+	<cmath>
+	"triangulo.h"
+
+1744639497 c:\users\d25106\desktop\aulatriangulo\main\triangulo.h
+
