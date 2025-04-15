@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1744723471 source:c:\users\d25106\desktop\aulatriangulo\quadrado\main.cpp
+	<iostream>
+	"quadrado.h"
+
+1744723550 c:\users\d25106\desktop\aulatriangulo\quadrado\quadrado.h
+
