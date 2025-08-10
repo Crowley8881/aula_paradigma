@@ -17,8 +17,18 @@ public class palindrome {
 
         }
 
+  Scanner scanner = new Scanner(System.in);
+        System.out.printf("Insira uma String");
+
+        String palavra = scanner.nextLine();
+
+        String reversa = new StringBuilder(palavra).reverse().toString();
+
+        System.out.printf("nova string:" + reversa);
+
 
 
     }
 
 }
+
